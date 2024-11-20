@@ -1,4 +1,4 @@
-# OSN Assignment 3
+# Advanced C Shell 
 
 ## Assumptions and behaviour
 * At start ``` cd - ``` stays in the home directory
